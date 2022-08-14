@@ -1,5 +1,5 @@
 {
-    "date": [
+    "data": [
         {
             "name": "super-man",
             "sub-name": "five-stars",
@@ -31,6 +31,5 @@
             "stars": 5
         }
     ]
-    ,
-    "boolean":true
+    
 }
